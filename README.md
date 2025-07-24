@@ -15,7 +15,7 @@ Me chamo Julia Morales, sou natural do Ceará e atualmente curso Ciência da Com
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red"
         />
     </a>
-     <a href ="mailto:juiamorales.dev@gmail.com" target="_blank">
+     <a href ="https://www.linkedin.com/in/julia-morales-06b566256/" target="_blank">
         <img 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
